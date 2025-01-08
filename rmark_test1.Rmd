@@ -1,5 +1,6 @@
 ---
-title: "test1"
+title: "Testing R test1"
+author: "KADIMA GLOIRE KABEYA"
 output:
   word_document: default
   pdf_document: default
